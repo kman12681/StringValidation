@@ -1,0 +1,7 @@
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\bin\Debug\StringValidation.exe.config
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\bin\Debug\StringValidation.exe
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\bin\Debug\StringValidation.pdb
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\obj\Debug\StringValidation.csprojResolveAssemblyReference.cache
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\obj\Debug\StringValidation.csproj.CoreCompileInputs.cache
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\obj\Debug\StringValidation.exe
+C:\Users\keith\Documents\dotnet\GC\UNIT1\Lab1\StringValidation\StringValidation\obj\Debug\StringValidation.pdb
